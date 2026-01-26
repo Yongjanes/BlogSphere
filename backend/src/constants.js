@@ -1,1 +1,1 @@
-export const DB_NAME = "BlogSphereDB"
+export const DB_NAME = "BlogSphereDB";
